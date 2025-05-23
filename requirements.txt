@@ -36,6 +36,7 @@ kiwisolver==1.4.8
 cycler==0.12.1
 contourpy==1.3.2
 pyparsing==3.2.3
+tqdm==4.67.1
 
 # Web/API Support
 python-multipart==0.0.6
