@@ -71,4 +71,4 @@ This project implements a machine learning system for detecting and classifying 
 - Reduced training time from 10+ hours to 4 minutes
 - Maintained high detection accuracy despite extreme class imbalance
 - Implemented memory-efficient processing for large datasets
-- Developed modular architecture for future extensibility![image](https://github.com/user-attachments/assets/ad3ee14f-f27a-491f-b8a1-954e5e233878)
+- Developed modular architecture for future extensibility!
