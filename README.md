@@ -1,6 +1,5 @@
-# iomt-attack-detection-v2
+# iomt-attack-detection-v2 (IoMT Multi-Classifier Project Summary)
 
-# IoMT Multi-Classifier Project Summary
 ## Project Overview
 This project implements a machine learning system for detecting and classifying attacks on Internet of Medical Things (IoMT) networks. It processes network traffic data to identify various attack types including DDoS, DoS, ARP spoofing, reconnaissance, and malformed MQTT packets, providing a foundation for real-time security monitoring. The project is based upon CICIoMT2024 dataset and study.
 ## Key Components and Their Interactions
