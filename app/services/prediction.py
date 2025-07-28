@@ -1,5 +1,6 @@
 # app/services/prediction.py
 # tested using python -m app.services.prediction
+# Business logic! / different to app/api/prediction.py (REST endpoints)
 """
 Prediction Service for IoMT Attack Detection System
 Phase 4: Core Business Logic - Step 5
